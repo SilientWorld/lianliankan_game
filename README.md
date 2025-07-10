@@ -1,4 +1,4 @@
-# 环境配置（ChatGPT 说的，我看了觉得没问题）
+# 环境配置
 
 ## **1. 安装 Node.js**
 Yarn 1.x 需要依赖 Node.js，因此首先需要安装它。
@@ -150,3 +150,20 @@ cd ./android
 ```
 
 生成的结果在 `android/app/build/outputs/apk/release/app-release.apk`
+
+
+## 结果展示
+
+![image](https://github.com/user-attachments/assets/2a6828ca-2401-4a75-9914-74aae2ebfdb5)
+
+![image](https://github.com/user-attachments/assets/b565dc52-cf31-4177-ae55-b87b62cdbf45)
+
+![image](https://github.com/user-attachments/assets/6878d28f-150f-4030-93c9-f0a4e259d8cd)
+
+![image](https://github.com/user-attachments/assets/64c0b4d8-010c-4492-bca0-d4576b748286)
+
+![image](https://github.com/user-attachments/assets/9ede2b0f-0bfa-4002-be1a-eed148c9f65d)
+
+
+
+
